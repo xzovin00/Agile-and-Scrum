@@ -1,3 +1,2 @@
 # Agile-Kanban-and-Scrum
-My notes on the "Learn about Agile project management and SCRUM" course from Google.
-The course can be found here shorturl.at/ejnoF.
+My notes on the [Learn about Agile project management and SCRUM](https://learndigital.withgoogle.com/digitalgarage/course/learn-about-agile-project-management-and-scrum) course from Google.
